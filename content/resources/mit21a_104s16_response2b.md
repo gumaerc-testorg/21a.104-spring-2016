@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding reader response2B.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-104-memory-culture-forgetting-spring-2016/a29544c43c0c814a35839c70cce38fce_MIT21A_104S16_Response2B.pdf
+file: /media/courses/21a-104-memory-culture-forgetting-spring-2016/a29544c43c0c814a35839c70cce38fce_MIT21A_104S16_Response2B.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Example
   Reader Response 2B'
