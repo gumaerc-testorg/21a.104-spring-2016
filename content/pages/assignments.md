@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course assignments, and student examples.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,13 +19,13 @@ Writing reader responses will help you prepare to speak up in class; if a studen
 
 ### Student Examples
 
-[Reader Response 1 (Student A) (PDF)]({{< baseurl >}}/resources/mit21a_104s16_response1)
+{{% resource_link f96accf4-95c9-ed86-98c7-44965d37299c "Reader Response 1 (Student A) (PDF)" %}}
 
-[Reader Response 2 (Student A) (PDF)]({{< baseurl >}}/resources/mit21a_104s16_response2a)
+{{% resource_link 1d62d9f0-b2c3-03e8-82a6-c32cfd378367 "Reader Response 2 (Student A) (PDF)" %}}
 
-[Reader Response 2 (Student B) (PDF)]({{< baseurl >}}/resources/mit21a_104s16_response2b)
+{{% resource_link a29544c4-3c0c-814a-3583-9c70cce38fce "Reader Response 2 (Student B) (PDF)" %}}
 
-[Reader Response 3 (Student A) (PDF)]({{< baseurl >}}/resources/mit21a_104s16_response3)
+{{% resource_link db3fcb93-bcc5-ad8c-e034-dc921b050f4b "Reader Response 3 (Student A) (PDF)" %}}
 
 Final Paper
 -----------
@@ -35,10 +36,10 @@ If you are a graduate student, you will write a full-scale research paper (25 pa
 
 The final paper counts for 30% of your final grade (the proposal counting for 5% and the final write up counting for 25%).
 
-[Potential Ideas for Your Research Paper (PDF)]({{< baseurl >}}/resources/mit21a_104s16_reserchideas)
+{{% resource_link 5b55129e-1208-40d9-343c-0ebf52137b4e "Potential Ideas for Your Research Paper (PDF)" %}}
 
 ### Student Example
 
-["Radical Empathy and the Transferential Power of Mass Media." (PDF)]({{< baseurl >}}/resources/mit21a_104s16_radiclempthy)
+{{% resource_link 2f45026d-1eda-2c50-7f4b-3aef56fcf265 "\"Radical Empathy and the Transferential Power of Mass Media.\" (PDF)" %}}
 
 Student examples appear courtesy of MIT students and are anonymous by request.

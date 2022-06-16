@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course description, the grading policy, and
+  the required text.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -96,11 +98,11 @@ Final Paper
 
 {{< tableclose >}}
 
-For detailed information on the reader responses and the final paper, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the reader responses and the final paper, please see the {{% resource_link c1fcea67-6e98-fa6a-0ec2-ec79468ee55c "Assignments" %}} section.
 
 Required Book
 -------------
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027007) Rinehart, Richard, and Jon Ippolito. _Re-Collection: Art, New Media and Social Memory_. MIT Press, 2014. ISBN: 9780262027007. \[Preview with [Google Books](http://books.google.com/books?id=dHS7AwAAQBAJ&pg=PAfrontcover)\]
 
-For detailed information on the readings, see the table in the [Readings]({{< baseurl >}}/pages/readings) section.
+For detailed information on the readings, see the table in the {{% resource_link 8d86a4f3-3127-cf03-79bb-d353b820d9d8 "Readings" %}} section.
