@@ -6,6 +6,7 @@ file: /courses/21a-104-memory-culture-forgetting-spring-2016/5b55129e120840d9343
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21A.104S16 Memory, Culture, and Forgetting: Assignments - Research Paper
 uid: 5b55129e-1208-40d9-343c-0ebf52137b4e
 ---
 This file contains information regarding potential ideas for your research paper.
-

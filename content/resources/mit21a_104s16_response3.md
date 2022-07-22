@@ -5,6 +5,7 @@ file: /courses/21a-104-memory-culture-forgetting-spring-2016/db3fcb93bcc5ad8ce03
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21A.104S16 Memory, Culture, and Forgetting: Assignments - Student Exampl
 uid: db3fcb93-bcc5-ad8c-e034-dc921b050f4b
 ---
 This file contains information regarding reader response3.
-
