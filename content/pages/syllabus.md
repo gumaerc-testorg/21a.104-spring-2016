@@ -27,9 +27,9 @@ Classes will combine interactive lectures, discussion, group projects, field tri
 
 You must bring to class the required readings for each session—a book, or printed hard copies or electronic versions of the articles! You will need these to participate in class discussion, complete in-class exercises, and perform group activities.
 
-I expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the [Office of Student Citizenship](http://studentlife.mit.edu/osc) or [Committee on Discipline](http://cod.mit.edu/). If you have questions about what qualifies as plagiarism and how to avoid it—and for tips on how to succeed—check out [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+I expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the {{% resource_link "b25ff973-3509-4e36-b4df-b617d431922d" "Office of Student Citizenship" %}} or {{% resource_link "74f6614e-6441-4c4d-8a26-d044b09e60d0" "Committee on Discipline" %}}. If you have questions about what qualifies as plagiarism and how to avoid it—and for tips on how to succeed—check out {{% resource_link "ed7825cb-3834-460f-9b65-cc42f6c8ffbf" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
-MIT's [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers free consultation as well as on-line help (!) to MIT students at any stage of the writing process. Get help overcoming writer's block and formulating an argument, and with questions on grammar and style. (Writing Center consultants do not proofread, but they do offer help with grammar and beyond).
+MIT's {{% resource_link "05536318-4380-43d9-8d47-10f297c49455" "Writing and Communication Center" %}} offers free consultation as well as on-line help (!) to MIT students at any stage of the writing process. Get help overcoming writer's block and formulating an argument, and with questions on grammar and style. (Writing Center consultants do not proofread, but they do offer help with grammar and beyond).
 
 Grading Policy
 --------------
@@ -103,6 +103,6 @@ For detailed information on the reader responses and the final paper, please see
 Required Book
 -------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027007) Rinehart, Richard, and Jon Ippolito. _Re-Collection: Art, New Media and Social Memory_. MIT Press, 2014. ISBN: 9780262027007. \[Preview with [Google Books](http://books.google.com/books?id=dHS7AwAAQBAJ&pg=PAfrontcover)\]
+{{% resource_link "5215b16a-a684-41b3-90b5-1af771576bc8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rinehart, Richard, and Jon Ippolito. _Re-Collection: Art, New Media and Social Memory_. MIT Press, 2014. ISBN: 9780262027007. \[Preview with {{% resource_link "d9129fc2-a72f-4716-bd7f-6141e4189e6a" "Google Books" %}}\]
 
 For detailed information on the readings, see the table in the {{% resource_link 8d86a4f3-3127-cf03-79bb-d353b820d9d8 "Readings" %}} section.

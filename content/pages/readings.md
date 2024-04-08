@@ -8,9 +8,9 @@ title: Readings
 uid: 8d86a4f3-3127-cf03-79bb-d353b820d9d8
 ---
 
-\[H\] = Halbwachs, Maurice. _On Collective Memory (Heritage of Sociology Series)_. Edited, translated, and with an introduction by Lewis A. Coser. University of Chicago Press, 1992. ISBN: 9780226115962. \[Preview with [Google Books](http://books.google.com/books?id=GPhGukFWC84C&pg=PAfrontcover)\]
+\[H\] = Halbwachs, Maurice. _On Collective Memory (Heritage of Sociology Series)_. Edited, translated, and with an introduction by Lewis A. Coser. University of Chicago Press, 1992. ISBN: 9780226115962. \[Preview with {{% resource_link "129c2b78-35d2-47eb-a778-2a442d1e47d3" "Google Books" %}}\]
 
-\[R\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027007) Rinehart, Richard, and Jon Ippolito. _Re-Collection: Art, New Media and Social Memory_. MIT Press, 2014. ISBN: 9780262027007. \[Preview with [Google Books](http://books.google.com/books?id=dHS7AwAAQBAJ&pg=PAfrontcover)\]
+\[R\] = {{% resource_link "5215b16a-a684-41b3-90b5-1af771576bc8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rinehart, Richard, and Jon Ippolito. _Re-Collection: Art, New Media and Social Memory_. MIT Press, 2014. ISBN: 9780262027007. \[Preview with {{% resource_link "d9129fc2-a72f-4716-bd7f-6141e4189e6a" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,9 +38,9 @@ Introduction to the class and the themes of social memory
 {{< tdopen >}}
 
 
-Bazelon, Emily. "[The Price of a Stolen Childhood](http://www.nytimes.com/2013/01/27/magazine/how-much-can-restitution-help-victims-of-child-pornography.html?pagewanted=all&_r=0)." _New York Times Magazine_, January 24, 2013.
+Bazelon, Emily. "{{% resource_link "2976fb27-8e0f-46a0-86fd-f65fabad873c" "The Price of a Stolen Childhood" %}}." _New York Times Magazine_, January 24, 2013.
 
-Rosen, Jeffrey. "[The Web Means The End of Forgetting](http://www.nytimes.com/2010/07/25/magazine/25privacy-t2.html?pagewanted=all&_r=0)." _New York Times Magazine_, July 21, 2010.
+Rosen, Jeffrey. "{{% resource_link "fbee16d2-f374-4273-b598-932c3d433dcd" "The Web Means The End of Forgetting" %}}." _New York Times Magazine_, July 21, 2010.
 
 
 {{< tdclose >}}
@@ -82,11 +82,11 @@ Memory as a Collective Project
 {{< tdopen >}}
 
 
-Connerton, Paul. "Social Memory." Chapter 1 in _How Societies Remember_. Cambridge University Press, 1989. ISBN: 9780521270939. \[Preview with [Google Books](http://books.google.com/books?id=AW7ekICdHAIC&pg=PA6=onepage)\]
+Connerton, Paul. "Social Memory." Chapter 1 in _How Societies Remember_. Cambridge University Press, 1989. ISBN: 9780521270939. \[Preview with {{% resource_link "32133749-ceef-41b8-977d-11fdde8c5a15" "Google Books" %}}\]
 
-Gable, Eric, and Richard Handler. "[Public History, Private Memory: Notes from the Ethnography of Colonial Williamsburg, Virginia, USA](https://doi.org/10.1080/00141840050076914)." _Ethnos_ 65, no. 2 (2000): 237–52.
+Gable, Eric, and Richard Handler. "{{% resource_link "ce68d880-d4ae-4355-9853-2f41be01e5b0" "Public History, Private Memory: Notes from the Ethnography of Colonial Williamsburg, Virginia, USA" %}}." _Ethnos_ 65, no. 2 (2000): 237–52.
 
-Gable, Eric, Richard Handler, et al. "[On the Uses of Relativism: Fact, Conjecture, and Black and White Histories at Colonial Williamsburg](http://www.jstor.org/stable/644919)." _American Ethnologist_ 19, no. 4 (1992): 791–805.
+Gable, Eric, Richard Handler, et al. "{{% resource_link "e8abdc9e-819a-4367-a1b7-b2af2bed0fbb" "On the Uses of Relativism: Fact, Conjecture, and Black and White Histories at Colonial Williamsburg" %}}." _American Ethnologist_ 19, no. 4 (1992): 791–805.
 
 
 {{< tdclose >}}
@@ -97,7 +97,7 @@ Gable, Eric, Richard Handler, et al. "[On the Uses of Relativism: Fact, Conjectu
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Museum of Afro American History](http://maah.org/), Boston, MA
+Field trip to the {{% resource_link "cb7b4a46-0475-4707-973d-13da4506be5c" "Museum of Afro American History" %}}, Boston, MA
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned
@@ -116,9 +116,9 @@ Memory and History
 
 Nora, Pierre. "General Introduction: Between Memory and History." In _Realms of Memory: Rethinking the Past, Vol. 1 – Conflicts and Divisions_. Columbia University Press, 1996. ISBN: 9780231084048.
 
-Schwartz, Barry, Yael Zerubavel, et al. "[The Recovery of Masada: A Study in Collective Memory](http://www.jstor.org/stable/4106206)." _Sociological Quarterly_ 27, no. 2 (1986): 147–64.
+Schwartz, Barry, Yael Zerubavel, et al. "{{% resource_link "84764333-271f-473e-97f7-a7994d188517" "The Recovery of Masada: A Study in Collective Memory" %}}." _Sociological Quarterly_ 27, no. 2 (1986): 147–64.
 
-Zerubavel, Yael. "[The Death of Memory and the Memory of Death: Masada and the Holocaust as Historical Metaphors](http://www.jstor.org/stable/2928603)." _Representations_ 45 (1994): 72–100.
+Zerubavel, Yael. "{{% resource_link "a568cc05-01b5-4a5a-856d-ff8fc7316501" "The Death of Memory and the Memory of Death: Masada and the Holocaust as Historical Metaphors" %}}." _Representations_ 45 (1994): 72–100.
 
 
 {{< tdclose >}}
@@ -136,11 +136,11 @@ The Role of Monuments and Historical Sites in Social Memory
 
 Foote, Kenneth E. "The Veneration of Heroes and Martyrs." Chapter 2 in _Shadowed Ground: America's Landscapes of Violence and Tragedy_. University of Texas Press, 2003. ISBN: 9780292705258.
 
-Knudsen, Britta T., and Carsten Stage. "[Online War Memorials: YouTube As a Democratic Space of Commemoration Exemplified Through Video Tributes to Fallen Danish Soldiers](https://doi.org/10.1177/1750698012458309)." _Memory Studies_ 6, no. 4 (2013): 418–36.
+Knudsen, Britta T., and Carsten Stage. "{{% resource_link "df801162-488a-44ab-9400-66a41b0b8e9b" "Online War Memorials: YouTube As a Democratic Space of Commemoration Exemplified Through Video Tributes to Fallen Danish Soldiers" %}}." _Memory Studies_ 6, no. 4 (2013): 418–36.
 
 Musil, Robert. "Monuments." In _Posthumous Papers of a Living Author_. Translated from the German by Peter Wortsman. Archipelago, 2006. ISBN: 9780976395041.
 
-Sturken, Marita. "The Wall and the Screen Memory: The Vietnam Veterans Memorial." Chapter 2 in _Tangled Memories: The Vietnam War, the AIDS Epidemic, and the Politics of Remembering_. University of California Press, 1997. ISBN: 9780520206205. \[Preview with [Google Books](http://books.google.com/books?id=3oRzVQX4wLYC&pg=PA44=onepage)\]
+Sturken, Marita. "The Wall and the Screen Memory: The Vietnam Veterans Memorial." Chapter 2 in _Tangled Memories: The Vietnam War, the AIDS Epidemic, and the Politics of Remembering_. University of California Press, 1997. ISBN: 9780520206205. \[Preview with {{% resource_link "e84a1827-8a05-4eac-8827-296d51cb9ea9" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -156,13 +156,13 @@ Politics of Remembering and Forgetting
 {{< tdopen >}}
 
 
-Buyandelger, Manduhai. "Introduction: The Return of the Suppressed." In _Tragic Spirits: Shamanism, Memory, and Gender in Contemporary Mongolia_. University of Chicago Press, 2013. ISBN: 9780226086569. \[Preview with [Google Books](http://books.google.com/books?id=kdywAAAAQBAJ&pg=PA1=onepage)\]
+Buyandelger, Manduhai. "Introduction: The Return of the Suppressed." In _Tragic Spirits: Shamanism, Memory, and Gender in Contemporary Mongolia_. University of Chicago Press, 2013. ISBN: 9780226086569. \[Preview with {{% resource_link "485ad4d9-70a8-4ade-bbbb-9ce1159cfdec" "Google Books" %}}\]
 
-———. "Mobile Histories." Chapter 1 in _Tragic Spirits: Shamanism, Memory, and Gender in Contemporary Mongolia_. University of Chicago Press, 2013. ISBN: 9780226086569. \[[Preview with Google Books](https://books.google.com/books?id=kdywAAAAQBAJ&pg=PA39=onepage#v=onepage&q&f=false)\]
+———. "Mobile Histories." Chapter 1 in _Tragic Spirits: Shamanism, Memory, and Gender in Contemporary Mongolia_. University of Chicago Press, 2013. ISBN: 9780226086569. \[{{% resource_link "24544186-5d7f-4f29-8a68-87c65dafa8df" "Preview with Google Books" %}}\]
 
-———. "Technologies of Forgetting, State Socialism, and Potential Memories." Chapter 2 in _Tragic Spirits: Shamanism, Memory, and Gender in Contemporary Mongolia_. University of Chicago Press, 2013. ISBN: 9780226086569. \[Preview with [Google Books](http://books.google.com/books?id=kdywAAAAQBAJ&pg=PA67=onepage)\]
+———. "Technologies of Forgetting, State Socialism, and Potential Memories." Chapter 2 in _Tragic Spirits: Shamanism, Memory, and Gender in Contemporary Mongolia_. University of Chicago Press, 2013. ISBN: 9780226086569. \[Preview with {{% resource_link "d61b532c-6338-4084-83f5-6328f23f387a" "Google Books" %}}\]
 
-Nietzsche, Friedrich. _On the Advantage and Disadvantage of History for Life_. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=PAfrontcover)\]
+Nietzsche, Friedrich. _On the Advantage and Disadvantage of History for Life_. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with {{% resource_link "9d767156-6679-410d-9a0f-4dbd3f4cf919" "Google Books" %}}\]
 
 
 {{< tdclose >}}
