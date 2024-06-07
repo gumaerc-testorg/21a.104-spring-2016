@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding reader response2B.
 file: /courses/21a-104-memory-culture-forgetting-spring-2016/a29544c43c0c814a35839c70cce38fce_MIT21A_104S16_Response2B.pdf
+file_size: 227264
 file_type: application/pdf
 learning_resource_types:
 - Assignments
