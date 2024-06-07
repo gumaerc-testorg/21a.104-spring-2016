@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding radical empathy and the transferential
   power of mass media.
 file: /courses/21a-104-memory-culture-forgetting-spring-2016/2f45026d1eda2c507f4b3aef56fcf265_MIT21A_104S16_RadiclEmpthy.pdf
+file_size: 391645
 file_type: application/pdf
 learning_resource_types:
 - Assignments

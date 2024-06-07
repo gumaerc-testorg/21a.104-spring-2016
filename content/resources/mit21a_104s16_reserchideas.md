@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding potential ideas for your research
   paper.
 file: /courses/21a-104-memory-culture-forgetting-spring-2016/5b55129e120840d9343c0ebf52137b4e_MIT21A_104S16_ReserchIdeas.pdf
+file_size: 300264
 file_type: application/pdf
 learning_resource_types:
 - Assignments
