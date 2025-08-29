@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding reader response2A.
-file: /courses/21a-104-memory-culture-forgetting-spring-2016/1d62d9f0b2c303e882a6c32cfd378367_MIT21A_104S16_Response2A.pdf
+file: /ol-ocw-studio-app/courses/21a-104-memory-culture-forgetting-spring-2016/1d62d9f0b2c303e882a6c32cfd378367_MIT21A_104S16_Response2A.pdf
 file_size: 487205
 file_type: application/pdf
 learning_resource_types:
