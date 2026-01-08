@@ -58,7 +58,7 @@ Memory as a Collective Project
 
 ### Screening
 
-{{% resource_link "f42e5622-3327-4908-af0e-8243f5a4fcff" "_Digging for Slaves_" %}}. Color, 50 min. 1989.
+[_Digging for Slaves_](http://www.imdb.com/title/tt1738449/?ref_=fn_al_tt_1). Color, 50 min. 1989.
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ Memory as a Collective Project
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the {{% resource_link "efacf978-8e60-41a9-adc2-24f5982aed68" "Museum of Afro American History" %}}, Boston, MA
+Field trip to the [Museum of Afro American History](http://maah.org/), Boston, MA
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -90,7 +90,7 @@ Memory and History
 
 ### Screening
 
-Excerpt from {{% resource_link "52197009-8142-4a3a-a1e7-9cba9970cfa2" "_Masada_" %}}. Directed by Craig Haffner. Color, 120 min. 2002.
+Excerpt from [_Masada_](http://www.imdb.com/title/tt0356868/?ref_=fn_al_tt_2). Directed by Craig Haffner. Color, 120 min. 2002.
 
 
 {{< tdclose >}}
@@ -136,7 +136,7 @@ Politics of Remembering and Forgetting
 
 _Screening_
 
-{{% resource_link "a816c17c-6ef1-4f35-80d0-94886d4304b3" "_Khadak_" %}}. Directed by Peter Brosens and Jessica Hope Woodworth. Color, 104 min. 2006.
+[_Khadak_](http://www.imdb.com/title/tt0475241/?ref_=fn_al_tt_1). Directed by Peter Brosens and Jessica Hope Woodworth. Color, 104 min. 2006.
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ Nostalgia and Postsocialism
 
 ### Screening
 
-{{% resource_link "6f1d27e6-847b-49e2-a757-2b8aeb0501fa" "_Good Bye Lenin!_" %}} Directed by Wolfgang Becker. Black and White & Color, 121 min. 2004.
+[_Good Bye Lenin!_](http://www.imdb.com/title/tt0301357/?ref_=nv_sr_1) Directed by Wolfgang Becker. Black and White & Color, 121 min. 2004.
 
 
 {{< tdclose >}}
@@ -218,7 +218,7 @@ Summarize and discuss student projects
 
 ### Optional Screening
 
-{{% resource_link "bf35e588-720d-4d85-b077-b19ded3ca317" "_Eternal Sunshine of the Spotless Mind_" %}}. Directed by Michel Gondry. Color, 108 min. 2004.
+[_Eternal Sunshine of the Spotless Mind_](http://www.imdb.com/title/tt0338013/?ref_=nv_sr_1). Directed by Michel Gondry. Color, 108 min. 2004.
 
 
 {{< tdclose >}}
